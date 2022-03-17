@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tensor_Empty</string>
+    <string name="Tensor_Text">tensor text</string>
+    <string name="countLoops">0</string>
+    <string name="count">Добавить петлю</string>
+    <string name="countRows">0</string>
+    <string name="numberOfLoops">Введите количество петель</string>
+    <string name="resetButton">Сброс</string>
+</resources>
